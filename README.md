@@ -3,7 +3,7 @@
 
 
 Name?
-Blake, Skyler, Pramit
+Blake, Skyler, Pramit, Zach
 
 What do you tell people about your field of study at a party?
 I'm changing the world by creating incredible artificial intelligence applications that build robust systems that incorporate big data and machine learning 
@@ -11,3 +11,6 @@ algorithms that can predict the future before it happens and can think through a
 In the past month, what are the three main activities you have been doing at work/study?
 
 What are the three most important tools/strategies you use for organizing your work?
+
+
+
